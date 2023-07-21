@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\user\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb
